@@ -9,7 +9,8 @@
     "barcode"
   ],
   "author": "Dominik Lessel <dominik@mifitto.com>",
-  "repository": "git://github.com/dominiklessel/barcoder.git",
+  "repository": "https://github.com/whisnusanjaya/node-barcoder.git",
+  "source": "https://github.com/whisnusanjaya/node-barcoder.git"
   "devDependencies": {
     "tape": "^3.0.0"
   },
