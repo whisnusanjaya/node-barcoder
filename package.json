@@ -8,7 +8,7 @@
     "validator",
     "barcode"
   ],
-  "author": "Dominik Lessel <dominik@mifitto.com>",
+  "author": "Whisnu Sanjaya <whisnusanjaya8@gmail.com>",
   "repository": "https://github.com/whisnusanjaya/node-barcoder.git",
   "source": "https://github.com/whisnusanjaya/node-barcoder.git"
   "devDependencies": {
